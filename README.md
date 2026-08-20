@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Hi!%20I'm%20Srijan%20Singh%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer&descAlignY=55&descAlign=50" />
-</div>
-
 <h3 align="center">Turning complex data into powerful solutions 🚀</h3>
 
 <div align="center">
@@ -36,23 +32,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
-
-<br />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrijanSingh2006&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff" alt="Srijan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrijanSingh2006&theme=radical&hide_border=true&background=0f172a&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff" alt="Srijan's GitHub Streak" />
-</div>
-
-<br />
-
-### 🏆 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSingh2006&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=ffffff" alt="Top Languages" />
-</div>
 
 <br />
 
