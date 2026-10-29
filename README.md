@@ -1,40 +1,48 @@
-<h3 align="center">Turning complex data into powerful solutions 🚀</h3>
-
-<div align="center">
-  <a href="https://github.com/SrijanSingh2006">
-    <img src="https://komarev.com/ghpvc/?username=SrijanSingh2006&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-  </a>
-</div>
-
-<br />
-
-### 👨🏻💻 About Me
-
-- 🎓 Computer Science undergraduate specializing in **Machine Learning, Deep Learning, and AI**.
-- 💡 Passionate about building intelligent systems, predictive models, and intuitive digital experiences.
-- 🔭 I’m currently working on real-world data-driven applications and computer vision projects.
-- 🌱 I’m currently diving deeper into **Generative AI** and **Advanced NLP**.
-- 💬 Ask me about **Python, TensorFlow, Scikit-learn, and Data Science**.
-- 📫 How to reach me: **[srijansingh2006@gmail.com](mailto:srijansingh2006@gmail.com)**
-
-<br />
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Srijan Singh — AI/ML developer building reliable AI systems" width="100%" />
 </p>
 
-<br />
+<p align="center">
+  <a href="https://srijansingh2006.github.io/PERSONAL-PORFOLIO-WEBSITE/"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-6542A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/srijan-singh-999a552a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:srijansingh2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-6B5A82?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/SrijanSingh2006/PERSONAL-PORFOLIO-WEBSITE/actions/workflows/deploy.yml"><img src="https://github.com/SrijanSingh2006/PERSONAL-PORFOLIO-WEBSITE/actions/workflows/deploy.yml/badge.svg" alt="Portfolio build and deploy status" /></a>
+</p>
 
-<div align="center">
-  <i>"Let's turn complex data into powerful solutions."</i>
-</div>
+## About
+
+I’m a final-year Computer Science undergraduate at **SRMIST** in Chennai, building AI workflows that are structured, testable, and useful beyond a demo. My work spans agentic pipelines, RAG, evaluation, and the APIs and interfaces that make AI tools usable.
+
+**9.14/10 CGPA** · **92.1% NLP model test accuracy** · **3 internships**
+
+## Selected work
+
+- **[TRIPMACHA](https://github.com/SrijanSingh2006/tripmacha-ai-travel)** — A phase-sequenced AI travel workflow with tool calling, structured outputs, and automated quality checks.
+- **[AgriComply AI](https://github.com/SrijanSingh2006/AgriComply-AI)** — A retrieval-augmented system that grounds answers in domain documents and adds human review gates.
+- **[EmotionAI](https://github.com/SrijanSingh2006/Emotion_Predictor)** — An NLP model benchmark with 92.1% test accuracy and deterministic evaluation checks.
+- **[ReachInboxAI](https://github.com/SrijanSingh2006/ReachInboxAI)** — A TypeScript workflow engine using BullMQ and Redis for sequenced execution and review.
+
+## Tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+## How I build
+
+I care about the engineering around AI: clear schemas, repeatable evals, human review when it matters, and documentation that helps someone else run the project.
+
+---
+
+<p align="center">
+  <sub>Chennai, India · <a href="https://srijansingh2006.github.io/PERSONAL-PORFOLIO-WEBSITE/">Portfolio</a> · <a href="mailto:srijansingh2006@gmail.com">Get in touch</a></sub>
+</p>
