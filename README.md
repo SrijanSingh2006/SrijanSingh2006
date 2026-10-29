@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://srijansingh2006.github.io/PERSONAL-PORFOLIO-WEBSITE/"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-6542A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://srijansingh2006.github.io/PERSONAL-PORFOLIO-WEBSITE/Srijan_Singh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Open%20PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
   <a href="https://www.linkedin.com/in/srijan-singh-999a552a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:srijansingh2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-6B5A82?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/SrijanSingh2006/PERSONAL-PORFOLIO-WEBSITE/actions/workflows/deploy.yml"><img src="https://github.com/SrijanSingh2006/PERSONAL-PORFOLIO-WEBSITE/actions/workflows/deploy.yml/badge.svg" alt="Portfolio build and deploy status" /></a>
