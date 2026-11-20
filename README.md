@@ -9,9 +9,14 @@ I’m a final-year computer science student in Chennai. I build machine learning
 
 ## Achievements
 
+<p>
+  <a href="https://github.com/SrijanSingh2006?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="44" height="44" align="middle" alt=""> Quickdraw</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SrijanSingh2006?achievement=yolo&amp;tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="44" height="44" align="middle" alt=""> YOLO</a>
+</p>
+
 - **9.14/10 CGPA** in Computer Science and Engineering at SRMIST.
 - **Three internships** spanning model evaluation, data quality, and backend development. [Experience ↗](https://srijansingh2006.github.io/PERSONAL-PORFOLIO-WEBSITE/#experience)
-- **GitHub badges** · [YOLO](https://github.com/SrijanSingh2006?achievement=yolo&tab=achievements) · [View on GitHub ↗](https://github.com/SrijanSingh2006?tab=achievements)
 
 ## Selected projects
 
